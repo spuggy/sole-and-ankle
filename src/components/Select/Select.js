@@ -40,6 +40,7 @@ const VisibleLabel = styled.span`
 `;
 
 const SelectWrapper = styled.div`
+  display: flex;
   position: relative;
 `;
 
